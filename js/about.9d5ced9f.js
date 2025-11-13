@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhelang"]=self["webpackChunkhelang"]||[]).push([[594],{603:function(n,u,a){a.r(u),a.d(u,{default:function(){return o}});var e=a(6768);const t={class:"about"},r=(0,e.Lk)("h1",null,"This is an about page",-1),s=[r];function c(n,u){return(0,e.uX)(),(0,e.CE)("div",t,s)}var l=a(1241);const h={},i=(0,l.A)(h,[["render",c]]);var o=i}}]);
+//# sourceMappingURL=about.9d5ced9f.js.map
